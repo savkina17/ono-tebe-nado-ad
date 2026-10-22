@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 92px 50px 96px;
+  padding: 92px 0 96px;
 }
 .header__links-list {
   display: flex;
@@ -221,7 +221,7 @@
   align-items: start;
   gap: 20px;
   margin-top: 180px;
-  padding: 0 50px 88px;
+  padding: 0 0 88px;
 }
 .footer__menu {
   justify-self: center;
